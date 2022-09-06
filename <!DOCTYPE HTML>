@@ -1,0 +1,12 @@
+ <div>
+           <h3>Interests</h3>
+           <ul>
+               <li> games </li>
+               <li> art </li>
+               <li> technology </li>
+           </ul>
+       </div>
+       <!-- Sidebar section -->
+       <div>
+       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB1aO3fd4xArvEVzAVHJcE9fa2tRNvl4tCJw&usqp=CAU">
+       </div>
